@@ -1,1 +1,2 @@
 # ColorLessLens
+ColorLessLensは視覚障害の見え方に近い画像を生成できるアプリケーションです。
