@@ -6,4 +6,4 @@ ColorLessLensは視覚障碍保持者の見え方に近い画像を生成でき�
 # 開発環境
 - AndroidStudio
 # 動作保証端末
-- Xperia X Performance (android 9.0)
+- Xperia X Performance (android 8.0)
